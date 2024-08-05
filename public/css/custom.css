@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;900&display=swap');
+
+body {
+    font-family: "Poppins", sans-serif;
+    background-color: antiquewhite;
+}
+
+.banner img {
+    width: 100%;
+    border-radius: 15px;
+}
+
+.pilih-kota img {
+    max-height: 100px;
+}
+
+.pilih-kota .card {
+    border-radius: 15px;
+}
+
+.produk .card {
+    border-radius: 15px;
+}
+
+.breadcrumb {
+    background-color: transparent;
+    padding: 0;
+}
+
+.breadcrumb .active {
+    font-weight: bold;
+    color: black;
+}
+
+.btn-dark {
+    border-radius: 10px;
+}
+
+.gambar-produk {
+    background-color: #f1f1f1;
+    border-width: 0;
+    border-radius: 20px;
+}
+
+a.pilihkota:link{
+    color: black;
+}
+
+a.pilihkota:visited{
+color: black;
+}
+
